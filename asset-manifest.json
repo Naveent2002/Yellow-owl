@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Yellow%20owl/static/css/main.28ce22d9.css",
+    "main.js": "/github.io/Yellow%20owl/static/js/main.fb7c4240.js",
+    "static/js/453.0f7f4333.chunk.js": "/github.io/Yellow%20owl/static/js/453.0f7f4333.chunk.js",
+    "index.html": "/github.io/Yellow%20owl/index.html",
+    "main.28ce22d9.css.map": "/github.io/Yellow%20owl/static/css/main.28ce22d9.css.map",
+    "main.fb7c4240.js.map": "/github.io/Yellow%20owl/static/js/main.fb7c4240.js.map",
+    "453.0f7f4333.chunk.js.map": "/github.io/Yellow%20owl/static/js/453.0f7f4333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ce22d9.css",
+    "static/js/main.fb7c4240.js"
+  ]
+}
